@@ -6,7 +6,7 @@ permalink: /project:-boomi-administrator/
 source-id: 11qsLDZRczLurrD7HhiYzOvOJW71NBdl9jqkjU4VazhU
 published: true
 ---
-iProject: Boomi Administrator Onboarding
+Project: Boomi Administrator Onboarding
 
 <table>
   <tr>
@@ -303,7 +303,7 @@ Location: Saint Louis</td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Case</td>
     <td></td>
     <td></td>
   </tr>
